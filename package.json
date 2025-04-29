@@ -1,0 +1,13 @@
+{
+  "name": "rewards-service",
+  "version": "1.0.0",
+  "description": "Rewards Service for loyal customers.",
+  "main": "redeemService.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "ts-jest": "^29.3.2"
+  }
+}
